@@ -10,6 +10,4 @@ iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 7777777777777777777777777777777777777777777
 88888
 9999999
-lllllllllllllllllllllll
-lllllllllllllllllllllll
-nbmbmb
+new line
