@@ -1,2 +1,5 @@
 new class
 local changed file
+new class
+changed from 2nd dveloper
+
