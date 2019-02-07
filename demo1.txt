@@ -1,1 +1,2 @@
 new class
+changed from 2nd dveloper
