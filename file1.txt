@@ -6,3 +6,5 @@ sss
 bbbb
 2w2w
 ganga
+bun
+drop
